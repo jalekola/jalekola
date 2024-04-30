@@ -1,0 +1,50 @@
+[0421/212638:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[0421/212638:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-44.userapi.com:443 failed; NSS error code -12190, net_error -107
+[0421/212638:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: sun9-44.userapi.com:443
+[0421/212638:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-44.userapi.com:443 failed; NSS error code -12286, net_error -113
+[0421/212704:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: sun9-44.userapi.com:443
+[0421/212704:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-44.userapi.com:443 failed; NSS error code -12286, net_error -113
+[0421/212734:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: sun9-44.userapi.com:443
+[0421/212734:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-44.userapi.com:443 failed; NSS error code -12286, net_error -113
+[0422/233644:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[0422/233644:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server pp.userapi.com:443 failed; NSS error code -12190, net_error -107
+[0422/233644:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: pp.userapi.com:443
+[0422/233644:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server pp.userapi.com:443 failed; NSS error code -12286, net_error -113
+[0423/225705:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[0423/225705:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-44.userapi.com:443 failed; NSS error code -12190, net_error -107
+[0423/225705:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: sun9-44.userapi.com:443
+[0423/225705:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-44.userapi.com:443 failed; NSS error code -12286, net_error -113
+[0423/225722:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: sun9-44.userapi.com:443
+[0423/225722:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-44.userapi.com:443 failed; NSS error code -12286, net_error -113
+[0423/230254:WARNING:backend_impl.cc(1644)] Messed up entry found.
+[0423/230254:WARNING:backend_impl.cc(1930)] Destroying invalid entry.
+[0423/230844:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[0423/230844:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-44.userapi.com:443 failed; NSS error code -12190, net_error -107
+[0423/230844:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: sun9-44.userapi.com:443
+[0423/230844:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-44.userapi.com:443 failed; NSS error code -12286, net_error -113
+[0423/231418:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[0423/231418:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-16.userapi.com:443 failed; NSS error code -12190, net_error -107
+[0423/231418:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: sun9-16.userapi.com:443
+[0423/231418:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-16.userapi.com:443 failed; NSS error code -12286, net_error -113
+[0424/221346:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[0424/221346:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server pp.userapi.com:443 failed; NSS error code -12190, net_error -107
+[0424/221346:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: pp.userapi.com:443
+[0424/221346:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server pp.userapi.com:443 failed; NSS error code -12286, net_error -113
+[0427/020810:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[0427/020810:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-70.userapi.com:443 failed; NSS error code -12190, net_error -107
+[0427/020810:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: sun9-70.userapi.com:443
+[0427/020810:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-70.userapi.com:443 failed; NSS error code -12286, net_error -113
+[0427/021122:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[0427/021122:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-44.userapi.com:443 failed; NSS error code -12190, net_error -107
+[0427/021122:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: sun9-44.userapi.com:443
+[0427/021122:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-44.userapi.com:443 failed; NSS error code -12286, net_error -113
+[0429/142432:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[0429/142432:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-west.userapi.com:443 failed; NSS error code -12190, net_error -107
+[0429/142432:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: sun9-west.userapi.com:443
+[0429/142433:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server sun9-west.userapi.com:443 failed; NSS error code -12286, net_error -113
+[0429/142841:WARNING:nss_ssl_util.cc(210)] Unknown SSL error -12190 mapped to net::ERR_SSL_PROTOCOL_ERROR
+[0429/142841:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server ibb.co:443 failed; NSS error code -12190, net_error -107
+[0429/142841:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: ibb.co:443
+[0429/142841:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server ibb.co:443 failed; NSS error code -12286, net_error -113
+[0429/142842:WARNING:http_stream_factory_impl_job.cc(1024)] Falling back to SSLv3 because host is TLS intolerant: ibb.co:443
+[0429/142843:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server ibb.co:443 failed; NSS error code -12286, net_error -113
